@@ -1,0 +1,71 @@
+-------
+| WEB |-->WWW(World Wide Web)Online Server Who connect User to the Whole Internet Server
+-------
+
+Internet Positive part-->WEB
+Internet Negative part-->DARK WEB
+
+Google ---> Search Engine
+ex., safari , firefox , etc...
+
+-->All Internet Servers Will Updated Within Every Month/Year.....
+--> ex., WEBPAGE , WEBSITE , WEBAPPLICATION.....
+
+                            -------------------
+                            | WEB DEVELOPMENT |
+                            -------------------
+                                    |
+                                 FULL STACK
+                    ---------------------------------   
+                    |                               |
+                FRONT END                         BACK END   
+
+
+-------------
+| FRONT END |(User site)
+-------------
+
+--> It is Visible part of our project that users intrect with direct ...
+--> Designe of our project[Webpage,Website,WebApplication]
+
+
+Front-end languages:
+--------------------
+[1] HTML -->Hyper text markup language
+[2] CSS  -->Cascading Style Sheet
+[3] JS   -->Java Script
+
+Framworks and Libraries:
+------------------------
+[1] React.js -->Buildup the powerfull UI.
+[2] Angular  -->Builing a perfect Framworks for SPAs(Single page Application).
+[3] BootStrap-->Pre-designed CSS components for faster development.
+
+
+-------------
+| Back END  |(Server site)
+-------------
+
+-->Back-end is the behind-the-Scence of Our project's wroking ....
+-->It is a Non visible part of our project it's Deal with Directly Server....
+
+Technologies Used in Back-end development:
+-------------------------------------------
+[1] Programming--> Python(Django , flask)
+                   Java(Spring Boot)
+                   Node.js
+                   PHP (Laravel Framework)
+
+[2] Database  --> SQL databse (MySQL, Postgre SQL)
+                  Non SQL Databse(Firebase , MongoDB)
+
+[3] APIs      --> Bridge Between Frontend and Backend
+
+[4] Web Servers ---> Manage Request and Response 
+                     ex., Apache , NGINX
+
+
+
+
+
+
